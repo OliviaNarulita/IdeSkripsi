@@ -1,2 +1,2 @@
 # IdeSkripsi
-Ide-ide buat skripsimkmlk
+Ide-ide buat skrips
